@@ -1,0 +1,51 @@
+.header{
+	background: #fff;
+	width: 40px;
+}
+.navbar-brand > img{
+	width: 60px;
+}
+li a img{
+	width: 60px;
+}
+.footer{
+	background: black;
+	font-weight: 600;
+	background: #000;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	text-align: center;
+}
+.content {
+	min-height: 400px;
+	padding: 2%;
+	border: 1px;
+	border-style: solid;
+}
+.rights{
+	color: #ffffff;
+}
+.carousel-caption div.sub-title{
+	font-weight: 900;
+	margin-right: 40%
+	margin-left: 40%;
+}
+.thumbnail img{
+	height: 800px;
+	width: 968px;
+
+}
+.heading{
+	text-align: center;
+	font-size: 22px;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-weight: bold;
+	color: #1abc9c;
+}
+.main-heading{
+	color: green;
+	font-size: 68px;
+	text-align: center;
+
+}
